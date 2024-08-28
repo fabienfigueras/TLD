@@ -1,4 +1,7 @@
 PBS Release Notes
+v109
+6 CSV files added to be able to interact with the software.
+Y Maximum position added in the output with the related distance and time 
 v108
 Max Y added
 Output improved
