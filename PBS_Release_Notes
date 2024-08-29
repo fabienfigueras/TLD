@@ -2,6 +2,7 @@ PBS Release Notes
 v110
 Minor bugs corrected regarding Stability Factior
 Zero Angle in degree added in zero.csv
+3 bash files added
 v109
 6 CSV files added to be able to interact with the software.
 Y Maximum position added in the output with the related distance and time 
