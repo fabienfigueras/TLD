@@ -1,0 +1,12 @@
+#!/bin/bash
+
+pwd
+
+cp -f GGG/amo-GPX17.csv ./amo.csv
+cp -f Sierra/bullet_BC_G1-SMK_HPBT_190.csv ./bullet_BC.csv
+cp -f Sierra/bullet-SMK_HPBT_190.csv ./bullet.csv
+cp -f Douvaine/env-Douvaine.csv ./env.csv
+cp -f Meopta/lunette_Meopta.csv ./lunette.csv
+cp -f Tikka/montage-Tikka_Meopta.csv ./montage.csv
+cp -f Tikka/rifle-T3X_TAC_A1_308.csv ./rifle.csv
+cp -f Zero/zero-ICAO-GGG_SMK-308-190.csv ./zero.csv

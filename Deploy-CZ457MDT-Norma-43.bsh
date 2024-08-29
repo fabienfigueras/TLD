@@ -1,0 +1,12 @@
+#!/bin/bash
+
+pwd
+
+cp -f Norma/amo-NormaXtreme.csv ./amo.csv
+cp -f Norma/bullet_BC_G7-Xtreme_43.csv ./bullet_BC.csv
+cp -f Norma/bullet-Xtreme_43.csv ./bullet.csv
+cp -f Douvaine/env-Douvaine.csv ./env.csv
+cp -f Meopta/lunette_Meopta.csv ./lunette.csv
+cp -f CZ457MDT/montage-CZ457MDT_Meopta.csv ./montage.csv
+cp -f CZ457MDT/rifle-CZ457MDT_22LR.csv ./rifle.csv
+cp -f Zero/zero-ICAO-Norma_Extreme-22LR-43.csv ./zero.csv

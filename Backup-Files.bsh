@@ -1,0 +1,12 @@
+#!/bin/bash
+
+pwd
+
+cp -f ./amo.csv Template/amo.csv
+cp -f ./bullet_BC.csv Template/bullet_BC.csv
+cp -f ./bullet.csv Template/bullet.csv
+cp -f ./env.csv Template/env.csv
+cp -f ./lunette.csv Template/lunette.csv
+cp -f ./montage.csv Template/montage.csv
+cp -f ./rifle.csv Template/rifle.csv
+cp -f ./zero.csv Template/zero.csv
