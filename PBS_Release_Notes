@@ -1,6 +1,7 @@
 PBS Release Notes
 v112
 Intel regarding Data imported from file added
+Impedence coef (J), BC_Gx_ICAO (G1 and G7), BC_Gx (G1 and G/) for current Atmosphere printed. 
 v111
 Minor bugs corrected regarding Stability Factor for ICAO 
 v110
