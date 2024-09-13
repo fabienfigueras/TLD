@@ -1,4 +1,8 @@
 PBS Release Notes
+v115
+a few bug fixes
+Option to generate Abacus (Elevation only, Windage is coming...)
+see example in file Abacus-308_GG_175_200.html
 v114
 Zeroing bug fix
 v113
