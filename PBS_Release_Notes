@@ -3,6 +3,9 @@ v116
 Option to generate Abacus (Elevation and Windage) or a Shooting Card.
 For Abascus example see : Abacus-308_GGG_175.pdf
 For Shhoting Card example see : ShootingCard-308_GGG_175_900_2024-09-18.pdf
+Bonus :
+To transform html file into pdf, see h2p-v100.py
+To merge multiple pdf files, see pdf-merge.py
 v115
 a few bug fixes
 Option to generate Abacus (Elevation only, Windage is coming...)
