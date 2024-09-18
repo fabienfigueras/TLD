@@ -1,8 +1,11 @@
 PBS Release Notes
+v116
+Option to generate Abacus (Elevation and Windage) or a Shooting Card.
+For Abascus example see : Abacus-308_GGG_175.pdf
+For Shhoting Card example see : ShootingCard-308_GGG_175_900_2024-09-18.pdf
 v115
 a few bug fixes
 Option to generate Abacus (Elevation only, Windage is coming...)
-see example in file Abacus-308_GG_175_200.html
 v114
 Zeroing bug fix
 v113
