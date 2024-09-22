@@ -1,4 +1,8 @@
 PBS Release Notes
+v117
+Improved Speed for Zeroing
+A Windage offset has been added for zeroing (mainly to take into account the Spin Drift effect)
+Coriolis effect formula aligned to Georj Klimi simplification proposal
 v116
 Option to generate Abacus (Elevation and Windage) or a Shooting Card.
 For Abascus example see : Abacus-308_GGG_175.pdf
