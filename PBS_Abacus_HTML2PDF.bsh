@@ -1,0 +1,33 @@
+#!/bin/bash
+python3 h2p-v100.py Abacus-308_GGG_175_100_2024-09-25.html Abacus-308_GGG_175_100.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_200_2024-09-25.html Abacus-308_GGG_175_200.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_300_2024-09-25.html Abacus-308_GGG_175_300.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_400_2024-09-25.html Abacus-308_GGG_175_400.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_500_2024-09-25.html Abacus-308_GGG_175_500.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_600_2024-09-25.html Abacus-308_GGG_175_600.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_700_2024-09-25.html Abacus-308_GGG_175_700.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_800_2024-09-25.html Abacus-308_GGG_175_800.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_900_2024-09-25.html Abacus-308_GGG_175_900.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_1000_2024-09-25.html Abacus-308_GGG_175_1000.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_1100_2024-09-25.html Abacus-308_GGG_175_1100.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_1200_2024-09-25.html Abacus-308_GGG_175_1200.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_1300_2024-09-25.html Abacus-308_GGG_175_1300.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_1400_2024-09-25.html Abacus-308_GGG_175_1400.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_1500_2024-09-25.html Abacus-308_GGG_175_1500.pdf
+wait
+python3 h2p-v100.py Abacus-308_GGG_175_1600_2024-09-25.html Abacus-308_GGG_175_1600.pdf
+wait

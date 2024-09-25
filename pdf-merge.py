@@ -1,13 +1,28 @@
 from pypdf import PdfWriter
 
-pdfs = ['Abacus-308_GGG_175_100_2024-09-18.pdf','Abacus-308_GGG_175_200_2024-09-18.pdf','Abacus-308_GGG_175_300_2024-09-18.pdf','Abacus-308_GGG_175_400_2024-09-18.pdf','Abacus-308_GGG_175_500_2024-09-18.pdf','Abacus-308_GGG_175_600_2024-09-18.pdf','Abacus-308_GGG_175_700_2024-09-18.pdf','Abacus-308_GGG_175_800_2024-09-18.pdf','Abacus-308_GGG_175_900_2024-09-18.pdf','Abacus-308_GGG_175_1000_2024-09-18.pdf','Abacus-308_GGG_175_1100_2024-09-18.pdf','Abacus-308_GGG_175_1200_2024-09-18.pdf','Abacus-308_GGG_175_1300_2024-09-18.pdf','Abacus-308_GGG_175_1400_2024-09-18.pdf','Abacus-308_GGG_175_1500_2024-09-18.pdf','Abacus-308_GGG_175_1600_2024-09-18.pdf']
+OutputFile="Abacus-308_GGG_175.pdf"
+Str1="Abacus-308_GGG_175_"
+#Str2="_2024-09-23.pdf"
+Str2=".pdf"
+Dist=100
+i=0
+pdfs = []
+
+while Dist <= 1600:
+	FileName= Str1+str(Dist)+Str2
+	pdfs.append(FileName)
+#	print("FileNAme [",i,"] = ",pdfs[i])
+	Dist += 100
+	i+=1
 
 # merger = PdfMerger()
+
+print(" Merging pdfs...")
 
 merger = PdfWriter()
 
 for pdf in pdfs:
     merger.append(pdf)
 
-merger.write("Abacus-308_GGG_175.pdf")
+merger.write(OutputFile)
 merger.close()
