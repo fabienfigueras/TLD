@@ -1,8 +1,10 @@
 PBS Release Notes
+v120
+bugs fixed
 v119
 Runge Kutta coefficients calculus modified
 v118
-Samll improvements and bugs fixed
+Small improvements and bugs fixed
 v117
 Improved Speed for Zeroing
 A Windage offset has been added for zeroing (mainly to take into account the Spin Drift effect)
