@@ -1,4 +1,6 @@
 PBS Release Notes
+v124
+Muzzle speed in standard atmo added to the amo.csv file and used for MACH calculation.
 v123
 minor bug fixed regarding BC_G1 when BC:G7 is used
 v122
