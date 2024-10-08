@@ -1,4 +1,6 @@
 PBS Release Notes
+v125
+Improve documentation, Conclusion : accuracy is better using real atmo and PBS output rather than ICAO and Abacus.
 v124
 Muzzle speed in standard atmo added to the amo.csv file and used for MACH calculation.
 v123
