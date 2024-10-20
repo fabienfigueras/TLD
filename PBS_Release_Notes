@@ -2,7 +2,7 @@ PBS Release Notes
 v126
 Small bug fixing when Zeroing from a 0 distance
 Document How to create a Zip file with all, see HowToPrepareAndUseA_PBS_zip-v126.pdf
-After describing How to use PBS Abascus (HowToPBS_Abacus.pdf) now a how to build it was published (  )  
+After describing How to use PBS Abascus (HowToPBS_Abacus.pdf) now a how to build it was published ( PBS How to generate pdf Abacus-v126.pdf )  
 v125
 Improve documentation, Conclusion : accuracy is better using real atmo and PBS output rather than ICAO and Abacus.
 v124
