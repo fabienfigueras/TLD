@@ -1,4 +1,7 @@
 PBS Release Notes
+v126
+Small bug fixing when Zeroing from a 0 distance
+Document How to create a Zip file with all
 v125
 Improve documentation, Conclusion : accuracy is better using real atmo and PBS output rather than ICAO and Abacus.
 v124
